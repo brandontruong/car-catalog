@@ -1,7 +1,7 @@
 {
-  "name": "universal-react-redux-exercise",
+  "name": "car-catalog",
   "version": "0.0.0",
-  "description": "universal react redux exercise",
+  "description": "Car Catalog",
   "author": "Brandon Truong <brandon.truong@outlook.com>",
   "scripts": {
     "start": "webpack && node server.js",
